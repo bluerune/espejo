@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.memory {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    z-index: 999999;
+}
+
+.memory:hover {
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+}
+
+#memory1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+#memory2 {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+}
+
+#memory3 {
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+video {
+    width: 90%;
+}
