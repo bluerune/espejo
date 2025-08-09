@@ -10,10 +10,8 @@ body {
 }
 
 .memory:hover {
-    background-color: white;
-    border-style: solid;
-    border-color: white;
-    border-width: 5px;
+    transform: scale(110%);
+    transition: 0.3s;
 }
 
 #memory1 {

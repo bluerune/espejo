@@ -1,3 +1,3 @@
 function ending(){
-    window.location.href = "./index.html";
+    window.location.href = "./closet.html";
 }
