@@ -24,7 +24,7 @@ a {
     width: 100px;
     height: 100px;
     background-color: aqua;
-    visibility: h;
+    visibility: visible;
 }
 
 .inactive {
